@@ -1,0 +1,22 @@
+{
+  "artistas": [
+    {
+      "nombre": "Katy Perry",
+      "descripcion": "Cantante pop estadounidense conocida por éxitos como 'Firework' y 'Roar'.",
+      "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X",
+      "imagen": "https://static.wikia.nocookie.net/cantantes/images/c/cd/Katy_Perry.jpg/revision/latest?cb=20231226205654&path-prefix=es"
+    },
+    {
+      "nombre": "Sia",
+      "descripcion": "Cantante y compositora australiana famosa por su voz única y éxitos como 'Chandelier'.",
+      "spotify": "https://open.spotify.com/intl-es/artist/5WUlDfRSoLAfcVSX1WnrxN?si=D7ezJTc8Smy5_9HLonH7OQ",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adele_2016.jpg/440px-Adele_2016.jpg"
+    },
+    {
+      "nombre": "ABBA",
+      "descripcion": "Icono de la música pop sueca, conocido por sus melodías pegajosas y armonías vocales.",
+      "spotify": "https://open.spotify.com/intl-es/artist/0LcJLqbBmaGUft1e9Mm8HV?si=hQCCP-8LS3erTQlYFt7esw",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPtvryiFsYm-c4SYNQZu0CrZ5S9EerLfkodcvNxQlJoDAorh5WYpPJJjoa7aLWeniCu6YubE5OZ7CSEJANlag3w"
+    }
+  ]
+}
